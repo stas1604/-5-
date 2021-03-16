@@ -1,0 +1,53 @@
+body {
+	background-color: grey;
+	font-family: Roboto,sans-serif;
+	color: white;
+	text-align: center;
+}
+.li_1 > img {
+	width: 400px;
+	float: left;
+	margin: 0 15px 15px 0;
+	
+}
+.li_2 > img {
+	width: 400px;
+	float: right;
+	margin: 0 0 15px 15px;
+}
+.li_3 > img {
+	width: 400px;
+	float: left;
+	margin: 0 15px 15px 0;
+
+}
+.li_4 > img {
+	width: 400px;
+	float: right;
+	margin: 0 0 15px 15px;
+
+}
+.li_5 > img {
+	width: 400px;
+	float: left;
+	margin: 0 15px 15px 0;
+}
+li {
+	list-style: none;	
+}
+h1 {
+	font-size: 50px;
+	color: #AEE579;
+}
+h3 {
+	clear: both;
+	font-size: 25px;
+	color: #9C4402;
+}
+p {
+	line-height: 1.5;
+	font-size: 18px;
+	margin-bottom: 50px;
+	text-align: left;
+}
+
